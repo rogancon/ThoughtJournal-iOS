@@ -1,9 +1,3 @@
-//
-//  MessageEntity+CoreDataProperties.swift
-//  AIDemoApp
-//
-//  Created by Матвей  on 22.12.2024.
-//
 import Foundation
 import CoreData
 
